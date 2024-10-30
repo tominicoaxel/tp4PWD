@@ -1,0 +1,11 @@
+{
+    "name": "axel/tp4",
+    "autoload": {
+        "psr-4": {
+            "Axel\\Tp4\\": "src/"
+        }
+    },
+    "require": {
+        "hashids/hashids": "^5.0"
+    }
+}
